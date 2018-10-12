@@ -11,7 +11,7 @@ BIPs根据功能分为以下几种类型：
   Performance: Exxxx
   Contract（BRC）:Fxxxx
  
-#BIPs Procedure
+# BIPs Procedure
   参与提出EIP开发人员，须遵循EIP提出、修改、确认以及公开等多个过程和环节. 
    Draft :    提案处于草案阶段
    Accepted： 提案被接收，处理中，在此期间可修改，并设定收集意见周期。
@@ -22,9 +22,9 @@ BIPs根据功能分为以下几种类型：
    
    提案经过下述的状态进行处理。
    
-     <.\bip.png>
+    ![](BIP.png) 
 
-#How to contribution
+# How to contribution
 
   1: 提交初始提案到本库中的<draft> 目录
   2. 社区定期处理相应的draft提案，并将提案进行社区讨论共识；
