@@ -7,7 +7,7 @@ BIPs根据功能分为以下几种类型：
   chainbase: Axxxx
   networks: Bxxxx
   Interface: Cxxxxx
-  Wallet: Dxxxx
+  Walletallet: Dxxxx
   Performance: Exxxx
   Contract（BRC）:Fxxxx
  
@@ -36,7 +36,7 @@ BIPs根据功能分为以下几种类型：
   
 # Eips format
 
-   提案草案提供推荐相应的格式，参考 Eips-mode.md，文件命名建议Eips-Axxx-draft.md，根据上述的分类进行命名
+   提案提供推荐相应的格式，参考 Eips-mode.md，文件命名建议Eips-Axxx.md，根据上述的分类进行命名
   
 
   
