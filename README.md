@@ -28,7 +28,7 @@ BIPs根据功能分为以下几种类型：
    提案经过下述的状态进行处理。
    
    
-![](\BIP.png)
+![](BIP.png)
 
 
 # How to contribution
