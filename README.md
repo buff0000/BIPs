@@ -14,15 +14,22 @@ BIPs根据功能分为以下几种类型：
 # BIPs Procedure
   参与提出EIP开发人员，须遵循EIP提出、修改、确认以及公开等多个过程和环节. 
    Draft :    提案处于草案阶段
-   Accepted： 提案被接收，处理中，在此期间可修改，并设定收集意见周期。
+   
+   Accepted： 提案被接收，处理中，在此期间可修改，并设定收集意见周期
+   
    Pending：  提案被挂起
-   Final：    提案终结，
+   
+   Final：    提案终结
+   
    Implemented: 提案已实施，针对已经实施的提案可发起先的意见进行修改
+   
    Reject：   提案被拒绝
    
    提案经过下述的状态进行处理。
    
+   
 ![](\BIP.png)
+
 
 # How to contribution
 
