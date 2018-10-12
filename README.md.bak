@@ -4,11 +4,16 @@ BOTTOS Improvement Proposals(BIP) 是为Bottos区块链的改进计划，社区�
 BIPs指定一整套的改进规则，提出并参与BIPs人员须遵循此规则。
 
 BIPs根据功能分为以下几种类型：
-  chainbase: Axxxx
+  chainbase: Axxxx 
+  
   networks: Bxxxx
+  
   Interface: Cxxxxx
+  
   Wallet: Dxxxx
+  
   Performance: Exxxx
+  
   Contract（BRC）:Fxxxx
  
 # BIPs Procedure
@@ -22,7 +27,10 @@ BIPs根据功能分为以下几种类型：
    
    提案经过下述的状态进行处理。
    
-![](BIP.png)
+   
+![](\BIP.png)
+
+
 
 # How to contribution
 
