@@ -5,6 +5,7 @@ BIPs指定一整套的改进规则，提出并参与BIPs人员须遵循此规则
 
 
 BIPs根据功能分为以下几种类型：
+
   chainbase: Axxxx 
   
   networks: Bxxxx
