@@ -17,6 +17,8 @@ BIPs根据功能分为以下几种类型：
   Performance: Exxxx
   
   Contract（BRC）:Fxxxx
+  
+  
  
 # BIPs Procedure
 
